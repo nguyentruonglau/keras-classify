@@ -2,6 +2,7 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![MIT License][license-shield]][license-url]
 [![Coverage][coverage-shield]][license-url]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 # KERAS CLASSIFY
 
 Image classification for projects and researches
