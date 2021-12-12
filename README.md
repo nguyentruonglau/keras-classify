@@ -152,17 +152,10 @@ Design your model at `model/models.py`, we have made EfficientNetB0 the default.
       return img.numpy()
   ```
 
-
-<!-- CONTRIBUTING -->
-## Contributor
-
-1. BS Nguyen Truong Lau
-2. PhD Thai Trung Hieu
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/nguyentruonglau/keras-classify/blob/main/LICENSE.txt) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/nguyentruonglau/keras-classify/blob/main/LICENSE.txt) for more information. Thanks Mr.Hieu (Thai Trung Hieu) contributing to this repository.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
