@@ -165,7 +165,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nguyentruong
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://github.com/nguyentruonglau/keras-classify/blob/master/images/license-MIT-green.svg
+[license-shield]: https://github.com/nguyentruonglau/keras-classify/blob/main/images/license-MIT-green.svg
 [license-url]: https://github.com/nguyentruonglau/keras-classify/blob/main/LICENSE.txt
-[coverage-shield]: https://github.com/nguyentruonglau/keras-classify/blob/master/images/coverage-93%25-green.svg
+[coverage-shield]: https://github.com/nguyentruonglau/keras-classify/blob/main/images/coverage-93%25-green.svg
 [coverage-url]: https://github.com/nguyentruonglau
